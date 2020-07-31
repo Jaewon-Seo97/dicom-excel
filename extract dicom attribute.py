@@ -43,7 +43,7 @@ for opn in range(len(allfolname)):
         dcmname.append(onen[app][0:8])
 
 
-############dcm에서 data추출
+############extract data from dicom
 ids=[]
 age=[]
 sex=[]
